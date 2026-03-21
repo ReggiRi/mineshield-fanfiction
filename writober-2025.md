@@ -72,4 +72,4 @@
 
 • [День 30. Самайн](https://t.me/MineFanfiction/1135)
 
-• [День 31. Хэллоуин](https://t.me/
+• [День 31. Хэллоуин](https://t.me/MineFanfiction/1144)

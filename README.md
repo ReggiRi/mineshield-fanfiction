@@ -8,6 +8,15 @@
 
 - [Правила Коалиции](pravila.md)
 - [Навигация по рубрикам](navigaciya.md)
+- [Обходы блокировок](obhodnyachki.md)
+
+---
+
+## 📖 О Коалиции
+
+- [Форма](skin.md)
+- [Админ.Инфо](admins.md)
+- [ВП](VP.md)
 
 ---
 
@@ -22,6 +31,7 @@
 
 - [Writober 2025](writober-2025.md)
 - [New Year 2025](new-year-2025.md)
+- [Мартовские коты 2026](march-cats.md)
 
 ---
 
